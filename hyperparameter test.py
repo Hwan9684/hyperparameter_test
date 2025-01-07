@@ -12,8 +12,8 @@ from imblearn.pipeline import Pipeline as ImbPipeline
 from scipy.stats import randint
 
 # 데이터가 저장된 디렉토리
-base_dir = "C:/Users/KYH/Desktop/deeplearning/RF"
-#base_dir = "/volumedata/kyh/RF"
+#base_dir = "C:/Users/KYH/Desktop/deeplearning/RF"
+base_dir = "/volumedata/kyh/RF"
 
 # 파일 경로 리스트
 file_paths = [
